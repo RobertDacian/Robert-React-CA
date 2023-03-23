@@ -24,7 +24,7 @@ npm run build
 
 ### For deployment with redirect on Netlify
 
-- added a \_redirect file in the public folder with the following line of code inside
+- can add a \_redirect file in the public folder with the following line of code inside
 
 ```js
  /index.html 200
